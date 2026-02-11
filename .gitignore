@@ -3,7 +3,13 @@
 *.log
 *.pyc
 .DS_Store
+**/.DS_Store
+**/.pytest_cache
 .claude
+.cache/
+__pycache__/
+.idea/
+venv/
 
 # Node.js / npm
 node_modules/
